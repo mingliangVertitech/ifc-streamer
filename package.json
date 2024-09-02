@@ -1,0 +1,23 @@
+{
+  "name": "ifc-streamer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "bim-fragment": "^1.5.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "get-port": "^5.1.1",
+    "openbim-components": "^1.5.1",
+    "three": "^0.160.1",
+    "ts-add-js-extension": "^1.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
